@@ -13,6 +13,13 @@ import Adminuicards from './components/Adminuicards';
 import Adminuiform from './components/Adminuiform';
 import Adminuitypography from './components/Adminuitypography';
 import Adminpro from './components/Adminpro';
+import Argonindex from './components/Argonindex';
+import Argonblank from './components/Argonblank';
+import Argoncomp from './components/Argoncomp';
+import Argongroups from './components/Argongroups';
+import Argonmarket  from './components/Argonmarket';
+import Argonsignin from './components/Argonsignin';
+import Argonsignup from './components/Argonsignup';
 
 function App() {
   return (
@@ -25,7 +32,14 @@ function App() {
     //<Adminuicards/>
     //<Adminuiform/>
     //<Adminuitypography/>
-    <Adminpro/>
+    //<Adminpro/>
+    //<Argonindex/>
+    //<Argonblank/>
+    //<Argoncomp/>
+    //<Argongroups/>
+    //<Argonmarket/>
+    //<Argonsignin/>
+    <Argonsignup/>
   );
 }
 
